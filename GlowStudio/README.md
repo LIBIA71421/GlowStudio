@@ -27,6 +27,8 @@ npm run build
 
 `npm run build` genera el sitio estático en `out/`, listo para publicar en GitHub Pages.
 El sitio se despliega automáticamente al hacer push a `main`.
+Para la primera publicación, habilita GitHub Pages en el repositorio desde
+**Settings → Pages → Build and deployment → Source → GitHub Actions**.
 
 ## Arquitectura híbrida: capas y funcionalidades
 
